@@ -20,16 +20,20 @@
 
 title: Samuel Ferreira Gomes
 email: samuelbfgomes@gmail.com
-description: "Wireless Communication Research Assistant\n
- Building a path towards intelligent communication systems\n
- Department of Communications (DECOM)\n
- Campinas State University - UNICAMP" 
-# this means to ignore newlines until "baseurl:"
-  
+description: abcde<br>abcde
 baseurl: "/thoughts" # the subpath of your site, e.g. /blog
 url: "https://samuelbfg.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+
+linkedin_username: samuelbfgomes
 github_username:  SamuelBFG
+instagram_username: samuelbfgomes
+
+# Author
+author:  Samuel Gomes
+
+# title-logo
+title-logo: /images/title-logo.png
+
 
 # Build settings
 # Removed minima theme as it is now a regular theme.
