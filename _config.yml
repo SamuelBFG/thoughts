@@ -20,9 +20,9 @@
 
 title: Samuel Ferreira Gomes
 email: samuelbfgomes@gmail.com
-description: "Wireless Communication Research Assistant\
- Building a path towards intelligent communication systems\
- Department of Communications (DECOM)\
+description: "Wireless Communication Research Assistant\n
+ Building a path towards intelligent communication systems\n
+ Department of Communications (DECOM)\n
  Campinas State University - UNICAMP" 
 # this means to ignore newlines until "baseurl:"
   
@@ -32,7 +32,8 @@ url: "https://samuelbfg.github.io/" # the base hostname & protocol for your site
 github_username:  SamuelBFG
 
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme.
+# theme: minima
 plugins:
   - jekyll-feed
 
