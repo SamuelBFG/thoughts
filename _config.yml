@@ -20,11 +20,12 @@
 
 title: Samuel Ferreira Gomes
 email: samuelbfgomes@gmail.com
-description: | # this means to ignore newlines until "baseurl:"
-  Wireless Communication Research Assistant \n
-  Building a path towards intelligent communication systems \n
-  Campinas State University - UNICAMP \n
-  WissTek Laboratory
+description: "Wireless Communication Research Assistant\
+ Building a path towards intelligent communication systems\
+ Department of Communications (DECOM)\
+ Campinas State University - UNICAMP" 
+# this means to ignore newlines until "baseurl:"
+  
 baseurl: "/thoughts" # the subpath of your site, e.g. /blog
 url: "https://samuelbfg.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
